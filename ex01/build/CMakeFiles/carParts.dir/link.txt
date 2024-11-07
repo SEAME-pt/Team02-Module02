@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/carParts.dir/src/Brake.cpp.o CMakeFiles/carParts.dir/src/Engine.cpp.o CMakeFiles/carParts.dir/src/Part.cpp.o CMakeFiles/carParts.dir/src/Transmission.cpp.o CMakeFiles/carParts.dir/src/Wheel.cpp.o CMakeFiles/carParts.dir/src/main.cpp.o -o carParts 

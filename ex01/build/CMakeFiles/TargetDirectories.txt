@@ -1,0 +1,3 @@
+/home/masoares/Team02-Module02/ex01/build/CMakeFiles/carParts.dir
+/home/masoares/Team02-Module02/ex01/build/CMakeFiles/edit_cache.dir
+/home/masoares/Team02-Module02/ex01/build/CMakeFiles/rebuild_cache.dir

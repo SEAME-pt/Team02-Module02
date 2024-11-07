@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/smartCar.dir/src/Car.cpp.o CMakeFiles/smartCar.dir/src/SportsCar.cpp.o CMakeFiles/smartCar.dir/src/main.cpp.o -o smartCar 
